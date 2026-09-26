@@ -7,6 +7,7 @@ A comprehensive research intelligence repository synthesizing **42 academic rese
 ## 📁 Repository Structure
 
 ```tree
+├── documents/                            # Original 42 academic research paper PDFs
 ├── src/                                  # Data extraction, NLP & generation scripts
 │   ├── extract_papers.py                 # PDF metadata and text extractor
 │   ├── dump_texts.py                     # High-fidelity multi-page plain text dumper
